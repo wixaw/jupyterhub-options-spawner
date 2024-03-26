@@ -1,3 +1,5 @@
+I forked the repository to change the dependency of "wrapspawner" and to enable installation with the command "pip install git+https://xxxxx".
+
 # JupyterHub Options Form Spawner
 ---
 This spawner makes it possible to add an options form to _almost_ any spawner using only JupyterHub configuration, no subclassing required. The options form that is rendered uses HTML5 form validation and applies form values as spawner attributes.
